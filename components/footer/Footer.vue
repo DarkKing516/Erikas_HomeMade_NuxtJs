@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
     <footer class="footer">
         <div class="container">
@@ -22,12 +21,3 @@
         </div>
     </footer>
 </template>
-
-<script>
-export default {
-    name: 'NuxtFooter',
-}
-</script>
-<!-- <style scoped>
-@import '@/assets/css/footer.css';
-</style> -->

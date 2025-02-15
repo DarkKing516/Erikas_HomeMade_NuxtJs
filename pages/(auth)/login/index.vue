@@ -10,6 +10,12 @@
     </div>
 </template>
 
+<script setup>
+// definePageMeta({
+//   layout: 'dashboard', // Asigna el layout "dashboard"
+// });
+</script>
+
 <style>
 @import '@/assets/css/login.css';
 </style>
